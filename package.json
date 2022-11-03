@@ -1,0 +1,7 @@
+{
+  "name": "testing-xlsx",
+  "type": "module",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
